@@ -14,7 +14,6 @@
 #   metric.path.one value timestamp\n
 #   metric.path.two value timestamp\n
 
-require 'rubygems' if RUBY_VERSION < '1.9.0'
 require 'sensu-handler'
 require 'tempodb'
 

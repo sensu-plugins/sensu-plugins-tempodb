@@ -24,7 +24,7 @@ deploy:
     secure: XJsK28YhItEy5oq8Luh7BGxAhXqJ0mlFKwPGZGiaThLS5gIqYKGYi+wRFb7C0HwFpTDC2gR8ePfFt5aZWvSJRdWnGe0Te3LSPtOAeqUGHeu3X9fTyB/dJy8dbeH/ug+AapJCxcMwJsfalFfEypmcapqv2YDkRTD72dCYGy5Y7SU=
   gem: sensu-plugins-tempodb
   on:
-    ags: true
+    tags: true
     all_branches: true
     rvm: 1.9.3
     rvm: 2.0

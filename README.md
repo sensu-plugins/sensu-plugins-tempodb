@@ -1,6 +1,6 @@
 ## Sensu-Plugins-tempodb
 
-[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-tempodb.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-tempodb)
+[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-tempodb.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-tempodb)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-tempodb.svg)](http://badge.fury.io/rb/sensu-plugins-tempodb)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-tempodb/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-tempodb)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-tempodb/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-tempodb)
@@ -9,7 +9,7 @@
 ## Functionality
 
 ## Files
- * bin/handler-tempodb
+ * bin/handler-tempodb.rb
 
 ## Usage
 
